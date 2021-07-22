@@ -1,0 +1,152 @@
+﻿ID,Start time,Completion time,Gender,Age,Closest biggest city near you,Number of kids (<18y) living with you,Birth Year,Number of modules completed so far,Average mark so far2,Prediction for this module's mark,I enjoy working with data,I am excited about working with data,I am afraid of working with data,I am interested in understanding Data Analytics,I plan to work hard in this module,"Height (absolute value, in centimeters (cm) - sorry imperial system users!)",Height (relative)
+2,12/17/20 9:09:33,12/17/20 9:10:55,Woman,40-49,Lagos ,0,1975,5,62,62,Agree,Agree,Completely Disagree,Agree,Agree,175,very tall
+3,12/17/20 9:09:27,12/17/20 9:11:01,Man,30-39,Dhaka,0,1011986,5,57,65,Agree,Agree,Completely Disagree,Agree,Agree,172,average
+4,12/17/20 9:09:34,12/17/20 9:14:39,Man,30-39,Hanoi,0,1989,5,61,64,Agree,Meh,Disagree,Meh,Meh,178,average
+5,12/17/20 9:19:54,12/17/20 9:27:03,Woman,50-59,Stockholm,0,1970,5,60,100,Agree,Agree,Completely Disagree,Agree,Completely Agree,164,average
+6,12/17/20 9:28:13,12/17/20 9:35:44,Man,40-49,Accra,3,1979,5,60,70,Completely Agree,Agree,Completely Disagree,Completely Agree,Meh,170,average
+7,12/17/20 9:52:37,12/17/20 9:58:18,Woman,40-49,Johannesburg ,2,1977,5,67,65,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,156,short
+8,12/17/20 10:02:46,12/17/20 10:04:09,Man,30-39,singapore,1,1983,5,62,62,Agree,Agree,Disagree,Agree,Agree,178,average
+9,12/17/20 10:20:02,12/17/20 10:25:21,Man,30-39,Zurich,1,1987,5,63,65,Agree,Meh,Agree,Completely Agree,Meh,185,tall
+10,12/17/20 10:39:02,12/17/20 10:40:30,Woman,40-49,Johannesburg,2,1977,5,68,65,Completely Agree,Agree,Completely Disagree,Completely Agree,Completely Agree,156,short
+11,12/17/20 10:55:58,12/17/20 11:00:12,Woman,30-39,Miami,1,1984,5,60,75,Agree,Agree,Disagree,Agree,Agree,165.1,average
+12,12/17/20 10:57:17,12/17/20 11:00:21,Man,50-59,Basingstoke,1,1964,5,65,70,Agree,Meh,Meh,Agree,Agree,81,average
+13,12/17/20 10:57:08,12/17/20 11:00:50,Man,30-39,khartoum,2,1984,4,55,70,Agree,Agree,Completely Disagree,Completely Agree,Agree,174,average
+14,12/17/20 10:57:07,12/17/20 11:03:46,Man,50-59,Geneva,0,1962,5,65,70,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,183,average
+15,12/17/20 11:02:01,12/17/20 11:06:24,Man,40-49,Shanghai,1,1972,5,67,60,Agree,Agree,Completely Disagree,Completely Agree,Completely Agree,180,average
+16,12/17/20 11:08:51,12/17/20 11:14:48,Man,40-49,Pristina,2,1971,5,61,70,Agree,Meh,Disagree,Meh,Agree,187,tall
+17,12/17/20 11:14:16,12/17/20 11:16:13,Woman,50-59,Durban,0,1968,5,63,70,Meh,Meh,Meh,Agree,Meh,140,average
+18,12/17/20 11:21:14,12/17/20 11:25:21,Man,30-39,Baghdad ,1,1986,5,65,50,Agree,Agree,Disagree,Completely Agree,Completely Agree,172,average
+19,12/17/20 11:53:53,12/17/20 12:02:22,Man,40-49,San Carlos City,2,1976,5,58,70,Completely Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,163,average
+20,12/17/20 12:07:34,12/17/20 12:15:09,Man,30-39,Lagos,1,1985,5,63,80,Agree,Agree,Disagree,Agree,Agree,171,tall
+22,12/17/20 12:38:15,12/17/20 12:39:44,Woman,20-29,London,0,1997,5,60,65,Meh,Meh,Disagree,Meh,Completely Agree,162,average
+23,12/17/20 12:42:52,12/17/20 12:49:28,Man,40-49,Kinshasa,3,1980,5,55,60,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,1.8,tall
+24,12/17/20 13:19:52,12/17/20 13:23:36,Man,30-39,Miami,0,1990,5,66,60,Agree,Meh,Meh,Agree,Completely Agree,177,average
+25,12/17/20 13:19:02,12/17/20 13:23:54,Woman,30-39,Singapore,0,1983,4,61.75,60,Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,152,short
+26,12/17/20 13:41:47,12/17/20 13:46:08,Man,30-39,Doha,2,1984,5,62,70,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,179,tall
+27,12/17/20 13:32:54,12/17/20 13:46:57,Woman,40-49,Jerusalem,0,1971,5,61,65,Agree,Agree,Completely Disagree,Completely Agree,Completely Agree,163,average
+28,12/17/20 13:46:18,12/17/20 13:50:37,Woman,50-59,New Jersey,2,1970,5,65,75,Completely Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,160.02,short
+29,12/17/20 14:05:37,12/17/20 14:06:34,Man,30-39,Seoul,0,1990,5,65,70,Completely Agree,Agree,Meh,Completely Agree,Completely Agree,177,average
+30,12/17/20 14:24:53,12/17/20 14:27:14,Man,40-49,Cork,0,1971,5,66,60,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,178,average
+31,12/17/20 14:27:28,12/17/20 14:32:43,Man,30-39,Lagos,3,1982,5,65.5,68,Agree,Agree,Disagree,Agree,Completely Agree,190,tall
+32,12/17/20 14:33:17,12/17/20 14:35:05,Man,50-59,Birmingham,0,15021965,5,65,95,Completely Agree,Agree,Disagree,Completely Agree,Completely Agree,188,tall
+33,12/17/20 14:41:39,12/17/20 15:14:33,Man,40-49,freetown,3,1977,5,55,55,Agree,Agree,Disagree,Agree,Agree,186,tall
+34,12/17/20 15:15:13,12/17/20 15:17:54,Man,30-39,Dubai ,3,1981,5,60,60,Completely Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,182,tall
+35,12/17/20 14:46:52,12/17/20 15:25:15,Woman,40-49,Rabat,1,1975,4,64.25,68,Meh,Meh,Agree,Completely Agree,Completely Agree,173,tall
+36,12/17/20 15:27:08,12/17/20 15:29:49,Man,50-59,Kitwe,0,1963,5,51,50,Agree,Agree,Meh,Meh,Disagree,1.4,average
+37,12/17/20 15:25:11,12/17/20 15:30:11,Woman,50-59,Johannesburg,1,62,5,65,65,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,1.79,tall
+38,12/17/20 16:48:30,12/17/20 16:50:04,Man,40-49,Dubai,1,1974,5,55,69,Agree,Agree,Agree,Agree,Completely Agree,181,tall
+39,12/17/20 16:51:46,12/17/20 16:54:13,Man,40-49,Toronto,4,1977,5,64,65,Meh,Meh,Disagree,Agree,Meh,170,average
+40,12/17/20 17:06:01,12/17/20 17:22:23,Woman,40-49,Luxemburg,0,1972,5,68,0,Meh,Disagree,Meh,Meh,Agree,165,short
+41,12/17/20 17:35:11,12/17/20 17:38:27,Man,70+,Houston,0,1946,5,58,65,Agree,Agree,Completely Disagree,Completely Agree,Completely Agree,170,average
+42,12/17/20 17:36:40,12/17/20 17:39:21,Man,50-59,Lusaka,0,1967,5,67,65,Completely Agree,Completely Agree,Completely Disagree,Agree,Agree,167,tall
+43,12/17/20 18:06:08,12/17/20 18:17:29,Woman,50-59,Vienna,1,1964,5,55,70,Meh,Meh,Disagree,Completely Agree,Completely Agree,165,average
+44,12/17/20 18:15:39,12/17/20 18:19:58,Man,20-29,Maharagama,0,1991,5,58,60,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,178,tall
+45,12/17/20 18:21:40,12/17/20 18:23:26,Man,40-49,Dubai,3,1976,5,60,60,Completely Agree,Agree,Disagree,Completely Agree,Completely Agree,192,tall
+46,12/17/20 22:32:15,12/17/20 22:33:50,Woman,40-49,Geneva,2,1976,none,,60,Meh,Meh,Agree,Agree,Completely Agree,165,average
+47,12/17/20 22:35:30,12/17/20 22:41:44,Man,40-49,Koforidua,0,1980,5,54,65,Agree,Agree,Disagree,Completely Agree,Agree,180,tall
+48,12/17/20 23:20:24,12/17/20 23:25:07,Woman,40-49,Prague,0,1980,1,66,68,Disagree,Completely Disagree,Completely Agree,Disagree,Agree,174,tall
+49,12/18/20 0:38:34,12/18/20 0:44:13,Woman,50-59,Port of Spain,0,1967,5,60,60,Meh,Meh,Disagree,Agree,Agree,155,average
+50,12/18/20 1:58:15,12/18/20 2:05:26,Woman,50-59,Toronto,1,1965,5,56,65,Agree,Meh,Disagree,Agree,Completely Agree,168,tall
+51,12/18/20 2:30:02,12/18/20 2:33:45,Man,20-29,Bo,1,26,none,,70,Agree,Agree,Disagree,Completely Agree,Completely Agree,176,tall
+52,12/18/20 4:43:42,12/18/20 4:47:58,Man,50-59,Windhoek ,2,1970,5,60,60,Agree,Meh,Disagree,Agree,Completely Agree,1.62,short
+53,12/18/20 4:49:26,12/18/20 4:54:44,Man,40-49,New York,4,1975,5,68,70,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,167,average
+54,12/18/20 7:32:55,12/18/20 7:52:14,Woman,40-49,Oman,0,1979,5,58.66,70,Agree,Agree,Completely Disagree,Completely Agree,Agree,170,tall
+55,12/18/20 7:53:37,12/18/20 7:55:41,Woman,30-39,Rome,1,1982,5,70,70,Agree,Agree,Meh,Agree,Completely Agree,160,average
+56,12/18/20 9:40:32,12/18/20 9:41:30,Woman,50-59,Cologne,1,1970,2,66,75,Completely Agree,Completely Agree,Completely Agree,Agree,Agree,156,short
+57,12/18/20 13:14:23,12/18/20 13:19:16,Woman,40-49,Nairobi,2,1977,2,64,70,Agree,Agree,Disagree,Completely Agree,Completely Agree,162.56,average
+58,12/18/20 13:22:49,12/18/20 13:24:51,Woman,30-39,Dubai,0,1986,5,65,65,Completely Agree,Completely Agree,Completely Disagree,Agree,Completely Agree,165,average
+59,12/18/20 14:22:44,12/18/20 14:24:06,Man,50-59,Brussels,1,1964,5,69,70,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,180,average
+60,12/18/20 15:17:50,12/18/20 15:22:01,Man,40-49,Harare,1,1976,5,60,60,Agree,Agree,Disagree,Completely Agree,Agree,165,short
+61,12/18/20 17:57:27,12/18/20 18:00:08,Woman,20-29,Zurich,0,1992,5,2,50,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,159,short
+62,12/18/20 19:54:43,12/18/20 20:00:04,Woman,40-49,Harare,1,1975,5,60.83,65,Agree,Agree,Disagree,Agree,Completely Agree,160,tall
+63,12/19/20 9:10:47,12/19/20 9:14:25,Man,50-59,Qatar,2,1961,5,60,60,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,155,short
+64,12/19/20 11:43:06,12/19/20 11:44:45,Man,20-29,Dubai,0,1991,5,60,80,Meh,Agree,Meh,Agree,Agree,177,average
+65,12/19/20 12:26:59,12/19/20 12:30:17,Woman,30-39,Goma,0,1989,5,50,65,Agree,Agree,Meh,Agree,Agree,1.64,average
+66,12/19/20 14:22:54,12/19/20 14:24:57,Woman,50-59,Erbil,1,1969,1,67,70,Agree,Meh,Meh,Meh,Agree,166,average
+67,12/19/20 17:17:06,12/19/20 17:21:39,Man,30-39,New York,0,1983,5,65,80,Agree,Agree,Disagree,Agree,Agree,155.44,average
+68,12/20/20 10:47:16,12/20/20 10:55:46,Woman,50-59,Lagos,1,1970,5,61,70,Agree,Agree,Disagree,Agree,Completely Agree,175,tall
+69,12/20/20 11:09:16,12/20/20 11:11:33,Woman,30-39,Oman,0,1989,5,60,60,Disagree,Disagree,Agree,Agree,Meh,168,average
+70,12/20/20 19:15:35,12/20/20 19:20:58,Man,40-49,Accra,3,1972,5,59.5,60,Agree,Agree,Disagree,Agree,Completely Agree,1.68,average
+71,12/21/20 2:00:16,12/21/20 2:01:37,Woman,40-49,Jakarta,1,1979,3,60,50,Agree,Agree,Disagree,Completely Agree,Agree,153,average
+72,12/21/20 7:31:12,12/21/20 7:42:04,Man,30-39,Nairobi,2,1985,5,63.83,61,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,178,tall
+73,12/21/20 9:44:38,12/21/20 9:46:14,Man,40-49,Zurich,0,1979,3,69,70,Agree,Agree,Agree,Agree,Agree,184,tall
+74,12/21/20 9:41:13,12/21/20 9:47:36,Man,50-59,Rome,1,1969,5,63,60,Agree,Agree,Disagree,Completely Agree,Agree,1500,tall
+75,12/21/20 11:00:07,12/21/20 11:39:42,Woman,30-39,Accra,2,1982,2,58,70,Agree,Agree,Disagree,Agree,Agree,164,short
+76,12/21/20 22:43:00,12/21/20 22:46:40,Man,30-39,Abuja Nigeria,0,1984,5,55,60,Agree,Agree,Disagree,Agree,Agree,176,average
+77,12/22/20 12:16:01,12/22/20 12:17:25,Woman,20-29,tel aviv,1,1991,5,54,54,Meh,Meh,Agree,Meh,Agree,160,average
+78,12/23/20 0:32:11,12/23/20 0:36:27,Woman,50-59,Bucharest ,0,1967,2,55,70,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,1.6,short
+79,12/24/20 5:09:01,12/24/20 5:13:28,Woman,30-39,Johannesburg,2,1987,3,52,50,Agree,Meh,Agree,Agree,Agree,156,average
+80,12/24/20 5:57:20,12/24/20 6:02:17,Man,30-39,Ho Chi Minh City,0,1987,4,66,55,Agree,Agree,Meh,Agree,Agree,172,average
+81,12/25/20 2:37:23,12/25/20 2:39:52,Man,30-39,Hanoi,0,1989,5,65,70,Agree,Agree,Disagree,Agree,Agree,160,average
+82,12/27/20 21:48:26,12/27/20 21:51:18,Man,40-49,Valetta,0,1972,5,60,60,Agree,Agree,Disagree,Agree,Agree,172,average
+83,12/28/20 14:37:47,12/28/20 14:39:24,Woman,30-39,New York,0,1986,5,55,61,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,60,short
+84,12/29/20 6:55:54,12/29/20 6:59:26,Man,30-39,Sulaymaniah - Iraq,2,1982,5,120,70,Agree,Completely Agree,Completely Disagree,Completely Agree,Agree,168,average
+85,12/30/20 12:46:29,12/30/20 12:48:36,Man,40-49,Amsterdam,1,1976,5,60,60,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,185,average
+86,12/30/20 12:52:50,12/30/20 12:57:19,Man,50-59,Vienna,0,1969,5,70.33,75,Agree,Meh,Meh,Agree,Agree,168,average
+87,1/4/21 9:36:14,1/4/21 9:37:50,Woman,40-49,Nairobi,2,1975,5,68,70,Completely Agree,Completely Agree,Disagree,Agree,Agree,155,average
+88,1/4/21 11:54:56,1/4/21 11:56:51,Man,40-49,Bruxelles,0,1972,2,77,85,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,179,average
+89,1/4/21 11:55:53,1/4/21 11:57:17,Woman,20-29,Prague,0,1995,1,75,70,Completely Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,164,average
+90,1/4/21 17:37:10,1/4/21 17:38:42,Man,30-39,Singapore,0,1983,3,60,60,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,168,short
+91,1/4/21 19:10:05,1/4/21 19:11:04,Woman,20-29,Riyadh ,0,1996,3,68,68,Completely Agree,Completely Agree,Completely Agree,Completely Agree,Completely Agree,168,average
+92,1/4/21 18:37:35,1/4/21 20:07:28,Man,40-49,"Washington, DC",1,1972,5,73,80,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,172.72,short
+93,1/4/21 21:07:06,1/4/21 21:14:50,Man,50-59,Zurich,2,1961,2,1,60,Agree,Agree,Disagree,Completely Agree,Agree,1.75,very short
+94,1/4/21 23:01:04,1/4/21 23:03:42,Man,40-49,Luanda,3,1977,2,55,75,Agree,Agree,Disagree,Completely Agree,Completely Agree,173,average
+95,1/5/21 1:31:31,1/5/21 1:34:13,Man,30-39,Cairo,0,1988,3,74,80,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,183,tall
+96,1/5/21 2:17:58,1/5/21 2:20:10,Woman,50-59,Shanghai,0,1969,3,63,63,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,165,average
+97,1/5/21 4:13:34,1/5/21 4:15:25,Man,40-49,Singapore,1,1978,1,78,75,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,190,tall
+98,1/5/21 4:47:47,1/5/21 4:50:05,Woman,50-59,Ho Chi Minh City,3,1970,3,68,60,Meh,Meh,Agree,Completely Agree,Completely Agree,173,tall
+99,1/5/21 10:50:37,1/5/21 10:56:38,Woman,20-29,London,0,1992,none,,75,Agree,Agree,Agree,Completely Agree,Completely Agree,155,average
+100,1/5/21 11:25:08,1/5/21 11:28:35,Woman,40-49,Zurich,0,1971,3,62,55,Agree,Agree,Meh,Completely Agree,Completely Agree,178,tall
+101,1/5/21 11:42:31,1/5/21 11:43:46,Man,40-49,Brindisi,2,1975,1,5,7,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Agree,169,short
+102,1/5/21 14:54:03,1/5/21 14:56:58,Man,40-49,Toronto,3,1976,3,69,75,Agree,Agree,Completely Disagree,Completely Agree,Completely Agree,186,tall
+103,1/6/21 18:49:41,1/6/21 18:52:01,Man,30-39,Basel,1,1982,2,66,75,Agree,Meh,Disagree,Completely Agree,Agree,187,tall
+104,1/7/21 11:14:28,1/7/21 11:18:31,Man,30-39,Bandundu,1,1988,2,67,72,Agree,Agree,Completely Agree,Completely Agree,Completely Agree,184,tall
+105,1/7/21 15:46:58,1/7/21 15:49:44,Man,30-39,Abuja,0,1987,1,25,95,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,187,tall
+106,1/8/21 4:08:33,1/8/21 4:10:14,Man,40-49,Hong Kong,0,1980,3,60,70,Completely Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,189,tall
+107,1/9/21 0:54:23,1/9/21 0:57:06,Man,40-49,Montreal,3,1975,1,78,75,Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,184,tall
+108,1/9/21 14:19:00,1/9/21 14:20:59,Man,50-59,"Zurich, Switzerland",0,1964,5,60,75,Agree,Completely Agree,Completely Disagree,Agree,Completely Agree,186,tall
+109,1/11/21 11:47:27,1/11/21 11:48:16,Woman,40-49,Berlin,1,1978,3,70,70,Agree,Agree,Completely Disagree,Completely Agree,Completely Agree,166,average
+110,1/11/21 15:30:36,1/11/21 15:35:06,Woman,40-49,Lusaka,5,1976,5,56,60,Agree,Agree,Disagree,Agree,Agree,160,average
+111,1/12/21 6:12:16,1/12/21 6:16:09,Woman,40-49,Riyadh,0,1976,5,69,71,Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,171,tall
+112,1/13/21 13:58:28,1/13/21 14:03:36,Woman,40-49,LAGOS,1,1979,2,67,72,Agree,Agree,Disagree,Completely Agree,Completely Agree,165,average
+113,1/13/21 23:13:22,1/13/21 23:15:00,Man,20-29,"Stuttgart, Germany",0,1992,3,76,81,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,187,tall
+114,1/14/21 8:24:17,1/14/21 8:29:01,Woman,40-49,Abuja,1,1979,2,67,70,Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,168.8,average
+115,1/14/21 9:03:31,1/14/21 9:06:28,Man,30-39,Lagos,0,1981,2,65,75,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,173,average
+116,1/16/21 21:03:37,1/16/21 21:06:29,Man,60-69,Lethbridge,3,1958,4,60,65,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,188,tall
+117,1/18/21 6:25:01,1/18/21 6:27:29,Man,40-49,Brampton,2,1976,none,,80,Completely Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,170.18,average
+118,1/18/21 7:36:51,1/18/21 7:39:39,Man,30-39,Pokhara,0,1983,5,50,59,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,167,average
+119,1/20/21 23:55:17,1/20/21 23:56:44,Man,40-49,Luanda,3,1977,2,55,65,Agree,Agree,Disagree,Agree,Agree,171,average
+120,1/21/21 8:36:15,1/21/21 8:40:06,Woman,30-39,Bangkok,0,1986,2,1,65,Agree,Agree,Disagree,Completely Agree,Completely Agree,164,average
+121,1/21/21 13:02:34,1/21/21 13:04:49,Man,50-59,Vienna,2,1971,1,50,86,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,175,average
+122,1/23/21 21:03:16,1/23/21 21:10:18,Woman,20-29,Muscat ,1,1991,none,,88,Completely Agree,Completely Agree,Disagree,Completely Agree,Agree,151.5,short
+123,1/24/21 11:31:47,1/24/21 11:33:40,Man,30-39,New Delhi,0,1981,3,60,70,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,187,tall
+124,1/23/21 6:31:26,1/26/21 5:44:31,Man,40-49,Singapore,1,1971,3,68.3,70,Agree,Agree,Meh,Agree,Agree,180,tall
+125,1/27/21 0:36:42,1/27/21 0:40:04,Man,30-39,Riyadh,2,1985,none,,80,Completely Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,183,tall
+126,1/27/21 12:20:17,1/27/21 12:21:47,Man,30-39,Hafnafjorður,0,1984,1,8,8,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,181,tall
+127,1/30/21 15:19:20,1/30/21 15:24:18,Man,40-49,"Washington, D.C.",1,1972,5,73.6,75,Completely Agree,Completely Agree,Disagree,Completely Agree,Completely Agree,172,short
+128,2/6/21 13:58:30,2/6/21 14:01:41,Man,30-39,Dusseldorf,1,1983,4,60,65,Agree,Agree,Disagree,Agree,Meh,172,average
+129,2/9/21 6:21:02,2/9/21 6:22:55,Man,30-39,Abuja,0,1985,4,60,82,Agree,Agree,Disagree,Completely Agree,Completely Agree,1.61,tall
+130,2/11/21 1:30:11,2/11/21 1:32:37,Man,30-39,Dusseldorf,1,1983,4,72,60,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Agree,173,average
+131,2/12/21 12:05:38,2/12/21 12:08:08,Man,30-39,RIYADH,3,1986,2,70,80,Completely Agree,Agree,Disagree,Agree,Agree,178,average
+132,3/24/21 8:08:54,3/24/21 8:10:41,Woman,60-69,Port louis,0,1957,5,58,60,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,160,average
+133,5/3/21 2:04:30,5/3/21 2:07:41,Man,50-59,Dallas,0,1964,1,54,68,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,177,average
+134,5/3/21 9:50:55,5/3/21 9:54:02,Man,20-29,Warsaw,0,1995,2,58,65,Agree,Agree,Disagree,Agree,Agree,182,average
+135,5/3/21 21:19:31,5/3/21 21:22:16,Man,40-49,tokyo,3,1979,4,65,64,Agree,Agree,Completely Disagree,Completely Agree,Completely Agree,174,average
+136,5/3/21 22:46:04,5/3/21 22:49:40,Man,30-39,Dubai,1,1988,1,73,75,Completely Agree,Completely Agree,Meh,Completely Agree,Agree,170,average
+137,5/4/21 3:41:28,5/4/21 3:43:36,Woman,40-49,Toronto,3,1977,3,75,80,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,157.5,very short
+138,5/4/21 13:22:07,5/4/21 13:24:57,Woman,30-39,Tapei,0,1988,3,66,68,Completely Agree,Meh,Agree,Agree,Agree,152,very short
+139,5/5/21 22:26:55,5/5/21 22:32:04,Woman,40-49,Toronto ,1,1978,3,65,65,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,168,tall
+140,5/6/21 12:05:47,5/6/21 12:07:17,Woman,30-39,Luxembourg ,2,1988,3,68,70,Meh,Agree,Disagree,Completely Agree,Completely Agree,158,short
+141,5/8/21 5:13:28,5/8/21 5:16:59,Man,40-49,Kampala,5,1973,3,68.5,70,Agree,Agree,Agree,Completely Agree,Completely Agree,5.7,tall
+142,5/10/21 9:09:00,5/10/21 9:10:41,Man,20-29,Lisbon,0,1998,3,62.7,69,Meh,Agree,Completely Agree,Agree,Completely Agree,172,average
+143,5/11/21 12:43:41,5/11/21 12:45:06,Man,40-49,Eindhoven,2,1975,2,26,55,Agree,Agree,Disagree,Agree,Agree,186,tall
+144,5/12/21 9:28:55,5/12/21 9:32:02,Woman,30-39,dubai,0,6031989,2,66.5,73,Agree,Agree,Agree,Completely Agree,Completely Agree,161.54,short
+145,5/14/21 0:03:05,5/14/21 0:04:17,Man,20-29,Zurich,0,1997,1,60,70,Completely Agree,Completely Agree,Disagree,Completely Agree,Agree,172,average
+146,5/14/21 9:36:14,5/14/21 9:37:24,Woman,30-39,Luxembourg,2,1988,3,68,70,Meh,Agree,Agree,Agree,Completely Agree,158,short
+147,5/14/21 11:11:23,5/14/21 11:15:34,Woman,30-39,Zürich,0,1983,3,64,51,Agree,Agree,Disagree,Completely Agree,Completely Agree,170,tall
+148,5/15/21 22:53:53,5/15/21 22:59:15,Woman,40-49,Berlin,1,1975,2,68,70,Agree,Agree,Disagree,Agree,Completely Agree,170,average
+149,5/16/21 4:38:05,5/16/21 4:41:40,Woman,40-49,Ampang,0,1980,2,65,80,Agree,Agree,Disagree,Completely Agree,Completely Agree,150,short
+150,5/16/21 10:10:04,5/16/21 10:15:14,Man,50-59,Lagos,1,1970,none,,70,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,173,tall
+151,5/16/21 13:48:28,5/16/21 13:50:53,Woman,40-49,Ludhiana ,1,1978,3,60,65,Completely Agree,Completely Agree,Completely Disagree,Completely Agree,Completely Agree,167.64,tall
+152,5/17/21 13:51:09,5/17/21 13:53:04,Woman,20-29,Amsterdam,0,1995,1,70,65,Agree,Meh,Agree,Agree,Agree,164,short
+153,5/19/21 22:22:37,5/19/21 22:24:27,Man,20-29,Istanbul,0,1995,1,66,75,Meh,Agree,Meh,Completely Agree,Agree,175,average
